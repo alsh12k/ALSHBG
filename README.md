@@ -22,8 +22,8 @@ ck = check()
 BG = ck.Tiktok("username")
 
 print(BG)
-
-[download] - from YouTube
+---------------------------------------
+[download] - (from YouTube)
 
 down = download()
 
