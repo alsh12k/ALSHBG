@@ -13,11 +13,21 @@ For example, we will check the username on Tiktok
 ```python 
 python3 ALSHBG.py 
 
+[checking]
+
 from ALSHBG import check
 
 ck = check()
 
 BG = ck.Tiktok("username")
+
+print(BG)
+
+[download] - from YouTube
+
+down = download()
+
+BG = down.dl("link video")
 
 print(BG)
 ```
