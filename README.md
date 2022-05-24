@@ -48,7 +48,6 @@ ALSHBG.py
 
 For example, we will download from YouTube
 ```python 
-python3 ALSHBG.py 
 
 from ALSHBG import check
 
@@ -58,7 +57,10 @@ BG = down.dl("link video")
 
 print(BG)
 ```
-
+## run this code :
+```
+python3 ALSHBG.py
+```
 ## ***The sites available in the project are***
 
 * Instagram
