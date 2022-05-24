@@ -11,7 +11,6 @@ ALSHBG.py
 
 For example, we will check the username on Tiktok
 ```python 
-python3 ALSHBG.py 
 
 from ALSHBG import check
 
@@ -50,8 +49,6 @@ ALSHBG.py
 For example, we will download from YouTube
 ```python 
 python3 ALSHBG.py 
-
-[download] - (from YouTube)
 
 from ALSHBG import check
 
