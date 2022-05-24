@@ -67,7 +67,7 @@ print(BG)
 * Instagram
 * YouTube 
 
-## run this code :
+## run code :
 ```
 python3 ALSHBG.py
 ```
