@@ -53,6 +53,30 @@ print(BG)
 * Sony 
 * Like 
 
+## ***The method of work***
+* Open a file in a text editor and name the file eg
+ALSHBG.py
+
+For example, we will download from YouTube
+```python 
+python3 ALSHBG.py 
+
+[download] - (from YouTube)
+
+from ALSHBG import check
+
+down = download()
+
+BG = down.dl("link video")
+
+print(BG)
+```
+
+## ***The sites available in the project are***
+
+* Instagram
+* YouTube 
+
 ## Follow us on social media
 [![Telegram](https://img.shields.io/badge/Telegram-ALSH_3k-orange?style=for-the-badge&logo=Telegram)](https://t.me/ALSH_3K)
 [![Youtube](https://img.shields.io/badge/Youtube-ALSH-orange?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
