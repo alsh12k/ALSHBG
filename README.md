@@ -5,6 +5,11 @@
 ```
 pip install ALSHBG
 ```
+## update :
+```
+pip update ALSHBG
+```
+
 ## ***The method of work***
 * Open a file in a text editor and name the file eg
 ALSHBG.py
